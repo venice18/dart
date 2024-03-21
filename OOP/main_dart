@@ -1,0 +1,10 @@
+class MyDetails {
+  String name;
+  int age;
+  MyDetails(this.name, this.age) {
+
+  }
+  void main() {
+    void MyDetails = MyDetails;
+  }
+}
